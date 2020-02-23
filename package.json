@@ -1,11 +1,12 @@
 {
-  "name": "GoGmusic",
-  "description": "a really cool app",
+  "name": "musicbot",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-  "Start": «node index.js»
-},
-  "engines": {
-    "node": "10.16.3"
-  }
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
