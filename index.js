@@ -5,6 +5,8 @@ const {
 } = require('./config.json');
 const ytdl = require('ytdl-core');
 
+const ffmpeg = require("ffmpeg-extra");
+
 const client = new Discord.Client();
 
 const queue = new Map();
