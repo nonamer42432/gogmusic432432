@@ -1,1 +1,0 @@
-worker: JavaScript index.js
